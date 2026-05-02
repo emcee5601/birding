@@ -13,4 +13,4 @@
   - direct link: https://www.google.com/maps/d/viewer?mid=15NWcsQyX3a96yfnwEGsqwSVwMHA
 - 
 
-<img src="birding-resources.png" width="50%">
+<img src="birding-resources.png" width="80%">
